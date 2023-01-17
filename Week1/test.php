@@ -1,8 +1,8 @@
-<html> 
- <head> 
-  <title>Cloud week 1</title> 
- </head> 
- <body> 
-  <?php echo “<p>Hello from cloud weekk 1</p>”;?> 
- </body> 
-</html>  
+<html>
+    <head>
+        <title>Cloud Week 1</title>
+    </head>
+    <body>
+        <?php echo "Hello from cloud week 1"; ?>
+    </body>
+</html>
