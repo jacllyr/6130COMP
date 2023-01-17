@@ -1,1 +1,1 @@
-# 6130comp-week1
+# 6130COMP labwork featuring cloud computing
