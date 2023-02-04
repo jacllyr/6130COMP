@@ -1,0 +1,6 @@
+ta,£1999,2010
+Ford,escort,£5000,1990
+Mazda,Mx-5,£9000,2013
+Mazda,Mx-5,£2000,1999
+Citroen,picasso,£5000,2019
+Citroen,c1,£3000,2013
